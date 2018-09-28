@@ -9,4 +9,8 @@ To ensure performance and reliability, the following **hardware upgrades** are r
 
 ### ABS
 #### Recommended
-* Tool Temperature
+* Tool Temperature = 245C
+* Bed Temperature  =  80C **(BuildTak Surface is Essential!!!)**
+* Printing Speeds  = Normal Speeds/Half Speeds for Quality
+
+
