@@ -16,8 +16,8 @@ To ensure performance and reliability, the following **hardware upgrades** are r
 * Bed Temperature             =  80C **(BuildTak Surface is Essential!!!)**
 * Printing Speeds             = Normal Speeds/Half Speeds for Quality
 
-### Carbon-Fiber Nylon
-### Recommended
+### CARBON-FIBER NYLON
+#### Recommended
 * Supplier/Brand               = [MatterHackers](https://www.matterhackers.com/store/3d-printer-filament/nylonx-carbon-fiber-nylon-filament-1.75mm)
 * Tool Temperature             = 260   C
 * Bed Temperature              =  65   C **(BuildTak Surface is Essential!!!)**
