@@ -26,4 +26,10 @@ To ensure performance and reliability, the following **hardware upgrades** are r
   * X/Y Axis Movement Speed    = 2400  mm/min
   * Z Axis Movement Speed      = 500   mm/min
 
-
+### PETG
+#### Recommended
+* Supplier/Brand               = [HatchBox](https://www.amazon.com/HATCHBOX-3D-Filament-Dimensional-Accuracy/dp/B07GH684RC/ref=sr_1_2?s=industrial&ie=UTF8&qid=1538155625&sr=1-2&keywords=hatchbox+petg)
+* Tool Temperature             = 230   C
+* Bed Temperature              =  65   C **(BuildTak Surface is Essential!!!)**
+* Printing Speeds              = Normal Speeds (similar to PLA)
+* References                   = [Thomas Sanladerer](https://www.youtube.com/watch?v=8_adY2K-YIc)
