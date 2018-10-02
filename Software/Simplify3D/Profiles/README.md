@@ -29,7 +29,8 @@ To ensure performance and reliability, the following **hardware upgrades** are r
 ### PETG
 #### Recommended
 * Supplier/Brand               = [HatchBox](https://www.amazon.com/HATCHBOX-3D-Filament-Dimensional-Accuracy/dp/B07GH684RC/ref=sr_1_2?s=industrial&ie=UTF8&qid=1538155625&sr=1-2&keywords=hatchbox+petg)
-* Tool Temperature             = 230   C
-* Bed Temperature              =  65   C **(BuildTak Surface is Essential!!!)**
+* Tool Temperature             = 245   C
+* Bed Temperature              =  75   C **(BuildTak Surface is Essential!!!)**
 * Printing Speeds              = Normal Speeds (similar to PLA)
+* Additional Comments          = Used raft for best adhesion and reduced the "layer separation" parameter to 0 mm (this is for very tall   parts)
 * References                   = [Thomas Sanladerer](https://www.youtube.com/watch?v=8_adY2K-YIc)
