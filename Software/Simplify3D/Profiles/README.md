@@ -25,7 +25,7 @@ To ensure performance and reliability, the following **hardware upgrades** are r
   * Default Printing Speed     = 1200  mm/min
   * X/Y Axis Movement Speed    = 2400  mm/min
   * Z Axis Movement Speed      = 500   mm/min
-* Additional Comments          = Build platform **adherance** is extremely hard for the Carbon Fiber Nylon material. The separation distance between nozzle and platform should be below 0.15 mm
+* Additional Comments          = Build platform **adherance** is extremely hard for the Carbon Fiber Nylon material. The separation distance between nozzle and platform should be below 0.15 mm. May require the use of another build platform or surface material like [garolite](https://www.matterhackers.com/articles/3d-printer-anatomy-print-surfaces?utm_source=MatterHackers+Newsletter&utm_campaign=758abb8e16-EMAIL_CAMPAIGN_2018_09_11_06_30&utm_medium=email&utm_term=0_dccd3cdce8-758abb8e16-127829101)
 
 ### PETG
 #### Recommended
