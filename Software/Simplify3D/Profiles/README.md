@@ -35,7 +35,7 @@ To ensure performance and reliability, the following **hardware upgrades** are r
 * Additional Comments          = Used raft for best adhesion and reduced the "layer separation" parameter to 0 mm (this is for very tall   parts)
 * References                   = [Thomas Sanladerer](https://www.youtube.com/watch?v=8_adY2K-YIc)
 
-### TPU60
+### TPU95A
 #### Recommended
 * Supplier/Brand               = [eSUN](https://www.amazon.com/eSUN-1-75mm-Flexible-Printer-Filament/dp/B07B5LPTGD/ref=pd_sbs_328_2?_encoding=UTF8&pd_rd_i=B07B5LPTGD&pd_rd_r=81bbefb4-c654-11e8-a4c0-59194f455d2c&pd_rd_w=UM9hg&pd_rd_wg=74arQ&pf_rd_i=desktop-dp-sims&pf_rd_m=ATVPDKIKX0DER&pf_rd_p=0bb14103-7f67-4c21-9b0b-31f42dc047e7&pf_rd_r=MYZKYGG7K0QNGSSHCB68&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=MYZKYGG7K0QNGSSHCB68)
 * Tool Temperature             = 230   C
