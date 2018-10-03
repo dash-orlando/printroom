@@ -9,7 +9,7 @@ To ensure performance and reliability, the following **hardware upgrades** are r
 * [Capricorn PTFE Tubing](https://store.micro-swiss.com/collections/creality-cr-10/products/capricorn-xs-bowden-tubing)
 
 ---
-### ABS
+### PLA
 #### Recommended
 * Supplier/Brand              = [HatchBox](https://www.amazon.com/HATCHBOX-3D-Filament-Dimensional-Accuracy/dp/B00J0GMMP6/ref=pd_day0_hl_328_2?_encoding=UTF8&pd_rd_i=B00J0GMMP6&pd_rd_r=caee1801-c712-11e8-a791-5df8b5defc43&pd_rd_w=ZNHj5&pd_rd_wg=ocO2w&pf_rd_i=desktop-dp-sims&pf_rd_m=ATVPDKIKX0DER&pf_rd_p=ad07871c-e646-4161-82c7-5ed0d4c85b07&pf_rd_r=3GGJ4QMGFEDVNZTG32PP&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=3GGJ4QMGFEDVNZTG32PP)
 * Tool Temperature            = 210C
