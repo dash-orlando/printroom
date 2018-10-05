@@ -1,5 +1,10 @@
 # FIRMWARE
 
+# Updates
+
+Date           | Description
+-------------- | --------------
+**10/05/2018** | Firmware updating has been [achieved through OctoPrint] (https://github.com/OctoPrint/OctoPrint-FirmwareUpdater)
 
 ## References:
 * https://github.com/OctoPrint/OctoPrint-FirmwareUpdater
